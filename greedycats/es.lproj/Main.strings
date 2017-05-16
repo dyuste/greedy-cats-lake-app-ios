@@ -1,0 +1,54 @@
+
+/* Class = "UITextField"; placeholder = "Confirm your password"; ObjectID = "2L3-zm-mxR"; */
+"2L3-zm-mxR.placeholder" = "Confirma tu contraseña";
+
+/* Class = "UITextField"; placeholder = "Type your user name"; ObjectID = "FT7-Sg-qKp"; */
+"FT7-Sg-qKp.placeholder" = "Escribe tu nombre de usuario";
+
+/* Class = "UIButton"; normalTitle = "Login as another user"; ObjectID = "LbV-6I-Iep"; */
+"LbV-6I-Iep.normalTitle" = "Accede como otro usuario";
+
+/* Class = "UITextField"; placeholder = "Type your password"; ObjectID = "Nmp-LK-SSK"; */
+"Nmp-LK-SSK.placeholder" = "Escribe tu contraseña";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "OBh-GY-e4C"; */
+"OBh-GY-e4C.normalTitle" = "Entrar";
+
+/* Class = "UILabel"; text = "Type your real name"; ObjectID = "W1q-lH-CJo"; */
+"W1q-lH-CJo.text" = "Escribe tu nombre real";
+
+/* Class = "UILabel"; text = "Type your password"; ObjectID = "WNW-h1-D86"; */
+"WNW-h1-D86.text" = "Escribe tu contraseña";
+
+/* Class = "UILabel"; text = "Create a password for your account"; ObjectID = "b2q-th-alx"; */
+"b2q-th-alx.text" = "Crea una contraseña para tu cuenta";
+
+/* Class = "UITextField"; placeholder = "Type your email address"; ObjectID = "cWQ-6L-Z1S"; */
+"cWQ-6L-Z1S.placeholder" = "Escribe tu dirección email";
+
+/* Class = "UITextField"; placeholder = "Pick an user name"; ObjectID = "fy7-UK-17E"; */
+"fy7-UK-17E.placeholder" = "Elige un nombre de usuario";
+
+/* Class = "UILabel"; text = "Link your account with an email address"; ObjectID = "fyc-qR-uWc"; */
+"fyc-qR-uWc.text" = "Enlaza tu cuenta con una dirección email";
+
+/* Class = "UIButton"; normalTitle = "Start Game"; ObjectID = "gYY-Cm-jw6"; */
+"gYY-Cm-jw6.normalTitle" = "Empieza el juego";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "hKy-qR-cBU"; */
+"hKy-qR-cBU.normalTitle" = "Guardar cambios";
+
+/* Class = "UILabel"; text = "Pick your user name"; ObjectID = "hNE-gH-MBx"; */
+"hNE-gH-MBx.text" = "Elige tu nombre de usuario";
+
+/* Class = "UILabel"; text = "Type here your user name or email"; ObjectID = "ine-y7-HGR"; */
+"ine-y7-HGR.text" = "Escribe aquí tu nombre o email";
+
+/* Class = "UITextField"; placeholder = "Choose a password"; ObjectID = "qxG-Ed-oEC"; */
+"qxG-Ed-oEC.placeholder" = "Elige una contraseña";
+
+/* Class = "UITextField"; placeholder = "Type your real name"; ObjectID = "vO8-mb-SX0"; */
+"vO8-mb-SX0.placeholder" = "Escribe tu nombre real";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z9w-WR-grm"; */
+"z9w-WR-grm.normalTitle" = "Button";

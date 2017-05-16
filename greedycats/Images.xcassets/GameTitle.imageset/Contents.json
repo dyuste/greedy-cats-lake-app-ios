@@ -1,0 +1,65 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 3,
+          "top" : 23,
+          "right" : 51,
+          "left" : 55
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "game_title.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 4,
+          "top" : 53,
+          "right" : 114,
+          "left" : 145
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "game_title@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 6,
+          "top" : 73,
+          "right" : 173,
+          "left" : 219
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "game_title@3x.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
